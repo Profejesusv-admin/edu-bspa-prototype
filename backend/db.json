@@ -1,0 +1,9 @@
+{
+  "cursos": ["Módulo 1", "Módulo 2", "Módulo 3", "Módulo 4", "Módulo 5", "Módulo 6"],
+  "docentes": [
+    { "id": 1, "nombre": "Prof. Matemáticas", "email": "matematicas@bspa7239.edu.ar", "modulo": "Módulo 3" }
+  ],
+  "materiales": [
+    { "id": 1, "titulo": "Ejercicios Álgebra", "tipo": "pdf", "curso": "Módulo 3", "docenteId": 1, "fecha": "2025-08-01" }
+  ]
+}
